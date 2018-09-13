@@ -1,0 +1,29 @@
+SonarQube in Action
+    1
+   11
+  1 1
+ 1  1
+	  1
+	  1
+111111111
+An introduction to SonarQube
+How you can evaluate a coder? You can evaluate a coder for the lines of code are generated in quality not
+in quantity.
+Because measuring the quality in lines of code are very hard.
+
+1.1 WHY SonarQube!?
+SonarQube is a free and open source “code quality platform.” It gives you a
+moment-in-time snapshot of your code quality today
+
+as well as trending of lagging(what’s already gone wrong) and leading (what’s likely to go wrong in the future)
+quality indicators.
+
+SonarQube doesn’t just show you what’s wrong. It also offers quality-management
+tools to actively help you put it right. That’s because software quality is something every system stakeholder cares about, not just end users.
+
+1.1.1 Proven Tecnologies
+If SonarQube uses existing tools. Why not just run those tools alone? There is a lots of reasons.
+The first is that the tools generate laundry lists of potential problems, don’t generate metrics, and, for the most part, they don’t offer tracking or trending from analysis to analysis
+SonarQube can be used to apply standardized rule sets, also offers its own rules and measurement algorithms.
+
+1.2 Running your first analysis
